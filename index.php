@@ -10,8 +10,7 @@ and open the template in the editor.
         <title>Project for git (index)</title>
     </head>
     <body>
-        <?php
-        // put your code here
-        ?>
+    <h1>this is a H1</h1>
+    <p>This is a first P </p>
     </body>
 </html>
